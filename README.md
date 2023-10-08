@@ -21,3 +21,5 @@ To ensure that the printName function retains its context, you can use the .bind
 # 1.3
 problem in "this" when we call it it lost
 we can fix it with using .blind()
+
+# explaining of 1.4, 1.5, 1.6 is in txt file in part2 folder
